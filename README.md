@@ -1,2 +1,2 @@
-# Project_X
-Design thinking project
+Project 1
+Savings Goal tracker
